@@ -1,0 +1,5 @@
+class student:
+ name="  "
+ mark=0
+ def display(self):
+  print("student name is:{0},student mark is {1}").format(self.name,self.mark)
