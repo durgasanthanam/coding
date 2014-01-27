@@ -1,0 +1,7 @@
+coding
+======
+
+pgm
+s=4
+t=7
+print(s-t)
